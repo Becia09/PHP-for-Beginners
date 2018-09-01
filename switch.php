@@ -33,7 +33,7 @@
 		
 		default:
 		echo "we could not find anythink";
-		break;
+		//break;
 	}
 	
 	?>
